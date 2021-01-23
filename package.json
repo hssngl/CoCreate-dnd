@@ -8,7 +8,8 @@
   "sideEffects": true,
   "scripts": {
     "start": "npx webpack --config webpack.config.js --watch",
-    "build": "NODE_ENV=production npx webpack --config webpack.config.js"
+    "build": "NODE_ENV=production npx webpack --config webpack.config.js",
+    "some nonsense change":""
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
